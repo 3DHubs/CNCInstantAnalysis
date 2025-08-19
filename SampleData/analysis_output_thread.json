@@ -1,0 +1,2442 @@
+{
+  "availabilityCheckFailureDetails": [],
+  "sourceDetails": {
+    "modelId": "9f48cc2f-b92b-4af5-be4b-2f6eb17abc6a"
+  },
+  "toolsets": [
+    {
+      "is5Axis": false,
+      "isMinimalMilling": false,
+      "leftoverMaterialVolume": 0,
+      "machiningMinutesBushing": 0,
+      "machiningMinutesPart": 11.950033836485098,
+      "materials": [
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 41,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 130,
+              "maxParts": 2,
+              "isSafe": true
+            },
+            {
+              "blockId": 16,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 129,
+              "maxParts": 4,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            },
+            {
+              "blockId": 88,
+              "maxParts": 30,
+              "isSafe": true
+            },
+            {
+              "blockId": 89,
+              "maxParts": 62,
+              "isSafe": true
+            }
+          ],
+          "materialId": 1
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            },
+            {
+              "blockId": 88,
+              "maxParts": 30,
+              "isSafe": true
+            },
+            {
+              "blockId": 89,
+              "maxParts": 62,
+              "isSafe": true
+            }
+          ],
+          "materialId": 10
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 11
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 38,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 2,
+              "maxParts": 6,
+              "isSafe": true
+            },
+            {
+              "blockId": 60,
+              "maxParts": 8,
+              "isSafe": true
+            },
+            {
+              "blockId": 64,
+              "maxParts": 17,
+              "isSafe": true
+            },
+            {
+              "blockId": 6,
+              "maxParts": 16,
+              "isSafe": true
+            },
+            {
+              "blockId": 10,
+              "maxParts": 22,
+              "isSafe": true
+            }
+          ],
+          "materialId": 12
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 38,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 2,
+              "maxParts": 6,
+              "isSafe": true
+            },
+            {
+              "blockId": 60,
+              "maxParts": 8,
+              "isSafe": true
+            },
+            {
+              "blockId": 64,
+              "maxParts": 17,
+              "isSafe": true
+            },
+            {
+              "blockId": 6,
+              "maxParts": 16,
+              "isSafe": true
+            },
+            {
+              "blockId": 10,
+              "maxParts": 22,
+              "isSafe": true
+            }
+          ],
+          "materialId": 13
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 14
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 15
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 11,
+              "maxParts": 22,
+              "isSafe": true
+            }
+          ],
+          "materialId": 16
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 10,
+              "maxParts": 22,
+              "isSafe": true
+            }
+          ],
+          "materialId": 17
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 17,
+              "maxParts": 15,
+              "isSafe": true
+            },
+            {
+              "blockId": 10,
+              "maxParts": 22,
+              "isSafe": true
+            }
+          ],
+          "materialId": 18
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            },
+            {
+              "blockId": 88,
+              "maxParts": 30,
+              "isSafe": true
+            },
+            {
+              "blockId": 89,
+              "maxParts": 62,
+              "isSafe": true
+            }
+          ],
+          "materialId": 19
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 2
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 20
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 38,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 2,
+              "maxParts": 6,
+              "isSafe": true
+            },
+            {
+              "blockId": 60,
+              "maxParts": 8,
+              "isSafe": true
+            },
+            {
+              "blockId": 64,
+              "maxParts": 17,
+              "isSafe": true
+            },
+            {
+              "blockId": 6,
+              "maxParts": 16,
+              "isSafe": true
+            },
+            {
+              "blockId": 10,
+              "maxParts": 22,
+              "isSafe": true
+            }
+          ],
+          "materialId": 21
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 22
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 38,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 23
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 64,
+              "maxParts": 17,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 10,
+              "maxParts": 22,
+              "isSafe": true
+            }
+          ],
+          "materialId": 24
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 38,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 6,
+              "maxParts": 16,
+              "isSafe": true
+            },
+            {
+              "blockId": 10,
+              "maxParts": 22,
+              "isSafe": true
+            }
+          ],
+          "materialId": 25
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 40,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 34,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 70,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 71,
+              "maxParts": 14,
+              "isSafe": true
+            },
+            {
+              "blockId": 35,
+              "maxParts": 14,
+              "isSafe": true
+            },
+            {
+              "blockId": 10,
+              "maxParts": 22,
+              "isSafe": true
+            }
+          ],
+          "materialId": 26
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 27
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 38,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 28
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 38,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 2,
+              "maxParts": 6,
+              "isSafe": true
+            },
+            {
+              "blockId": 60,
+              "maxParts": 8,
+              "isSafe": true
+            },
+            {
+              "blockId": 64,
+              "maxParts": 17,
+              "isSafe": true
+            },
+            {
+              "blockId": 6,
+              "maxParts": 16,
+              "isSafe": true
+            },
+            {
+              "blockId": 10,
+              "maxParts": 22,
+              "isSafe": true
+            }
+          ],
+          "materialId": 29
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            },
+            {
+              "blockId": 88,
+              "maxParts": 30,
+              "isSafe": true
+            },
+            {
+              "blockId": 89,
+              "maxParts": 62,
+              "isSafe": true
+            }
+          ],
+          "materialId": 3
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 38,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 2,
+              "maxParts": 6,
+              "isSafe": true
+            },
+            {
+              "blockId": 60,
+              "maxParts": 8,
+              "isSafe": true
+            },
+            {
+              "blockId": 64,
+              "maxParts": 17,
+              "isSafe": true
+            },
+            {
+              "blockId": 6,
+              "maxParts": 16,
+              "isSafe": true
+            },
+            {
+              "blockId": 10,
+              "maxParts": 22,
+              "isSafe": true
+            }
+          ],
+          "materialId": 30
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 38,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 2,
+              "maxParts": 6,
+              "isSafe": true
+            },
+            {
+              "blockId": 60,
+              "maxParts": 8,
+              "isSafe": true
+            },
+            {
+              "blockId": 64,
+              "maxParts": 17,
+              "isSafe": true
+            },
+            {
+              "blockId": 6,
+              "maxParts": 16,
+              "isSafe": true
+            },
+            {
+              "blockId": 10,
+              "maxParts": 22,
+              "isSafe": true
+            }
+          ],
+          "materialId": 31
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            }
+          ],
+          "materialId": 32
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 17,
+              "maxParts": 15,
+              "isSafe": true
+            },
+            {
+              "blockId": 10,
+              "maxParts": 22,
+              "isSafe": true
+            }
+          ],
+          "materialId": 35
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 37
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 130,
+              "maxParts": 2,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            },
+            {
+              "blockId": 89,
+              "maxParts": 62,
+              "isSafe": true
+            }
+          ],
+          "materialId": 4
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 41
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 5
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 6,
+              "maxParts": 16,
+              "isSafe": true
+            },
+            {
+              "blockId": 10,
+              "maxParts": 22,
+              "isSafe": true
+            }
+          ],
+          "materialId": 50
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 56
+        },
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 59
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 38,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 2,
+              "maxParts": 6,
+              "isSafe": true
+            },
+            {
+              "blockId": 60,
+              "maxParts": 8,
+              "isSafe": true
+            },
+            {
+              "blockId": 64,
+              "maxParts": 17,
+              "isSafe": true
+            },
+            {
+              "blockId": 6,
+              "maxParts": 16,
+              "isSafe": true
+            },
+            {
+              "blockId": 10,
+              "maxParts": 22,
+              "isSafe": true
+            }
+          ],
+          "materialId": 6
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 60,
+              "maxParts": 8,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 7
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 6,
+              "maxParts": 16,
+              "isSafe": true
+            }
+          ],
+          "materialId": 8
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 5,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 9
+        }
+      ],
+      "threadedFeatures": {
+        "displayInfo": {
+          "viewerFiles": [
+            "advisories_ts_1.bpv.gz",
+            "advisories_ts_1_bc_1.bpv.gz"
+          ],
+          "scene": "STD"
+        },
+        "features": [
+          {
+            "displayInfo": {
+              "axisX": 6.151067196252428e-17,
+              "axisY": -1.0,
+              "axisZ": -1.75104684828791e-17,
+              "cameraXform": "1.14433,-0.00000,-0.18686,5.00000,-0.91287,-0.00000,-0.40825,0.36515,-0.44721,-0.81650,-0.18257,-0.89443,0.40825",
+              "depth": 0.7499999403953552,
+              "diameter": 0.5499999964828471,
+              "states": [
+                {
+                  "objects": [
+                    {
+                      "color": "availableColor",
+                      "groupId": "ThreadedFeature1-2000001DisabledGroup-EXT",
+                      "objectId": "ThreadedFeature1-2000001"
+                    }
+                  ],
+                  "state": "available"
+                },
+                {
+                  "objects": [
+                    {
+                      "color": "highlightedColor",
+                      "groupId": "ThreadedFeature1-2000001DisabledGroup-EXT",
+                      "objectId": "ThreadedFeature1-2000001"
+                    },
+                    {
+                      "color": "highlightedColor",
+                      "groupId": "ThreadedFeature1-2000001SelectionRingGroup-EXT",
+                      "objectId": "ThreadedFeature1-2000001"
+                    }
+                  ],
+                  "state": "available+highlighted"
+                },
+                {
+                  "objects": [
+                    {
+                      "color": "selectedColor",
+                      "groupId": "ThreadedFeature1-2000001DisabledGroup-EXT",
+                      "objectId": "ThreadedFeature1-2000001"
+                    },
+                    {
+                      "color": "selectedColor",
+                      "groupId": "ThreadedFeature1-2000001SelectionRingGroup-EXT",
+                      "objectId": "ThreadedFeature1-2000001"
+                    }
+                  ],
+                  "state": "available+selected"
+                }
+              ],
+              "through": true,
+              "topX": 1.1443299013818913,
+              "topY": -1.758711837382705e-17,
+              "topZ": -0.18685567182498933
+            },
+            "featureId": 2000001,
+            "featureType": "ID",
+            "identifiableLocation": {
+              "holeDiameter": 0.5499999964828471,
+              "holePointX": 1.1443299013818913,
+              "holePointY": -1.758711837382705e-17,
+              "holePointZ": -0.18685567182498933
+            },
+            "threadOptions": [
+              {
+                "displayInfo": {
+                  "majorDiameter": 0.6095,
+                  "minorDiameter": 0.4762654557293793,
+                  "states": [
+                    {
+                      "objects": [
+                        {
+                          "color": "threadedColor",
+                          "groupId": "ThreadedFeature1-2000001Thread1123EnabledGroup-EXT",
+                          "objectId": "ThreadedFeature1-2000001"
+                        }
+                      ],
+                      "state": "1123"
+                    },
+                    {
+                      "objects": [
+                        {
+                          "color": "highlightedColor",
+                          "groupId": "ThreadedFeature1-2000001Thread1123EnabledGroup-EXT",
+                          "objectId": "ThreadedFeature1-2000001"
+                        },
+                        {
+                          "color": "highlightedColor",
+                          "groupId": "ThreadedFeature1-2000001SelectionRingGroup-EXT",
+                          "objectId": "ThreadedFeature1-2000001"
+                        }
+                      ],
+                      "state": "1123+highlighted"
+                    },
+                    {
+                      "objects": [
+                        {
+                          "color": "selectedColor",
+                          "groupId": "ThreadedFeature1-2000001Thread1123EnabledGroup-EXT",
+                          "objectId": "ThreadedFeature1-2000001"
+                        },
+                        {
+                          "color": "selectedColor",
+                          "groupId": "ThreadedFeature1-2000001SelectionRingGroup-EXT",
+                          "objectId": "ThreadedFeature1-2000001"
+                        }
+                      ],
+                      "state": "1123+selected"
+                    }
+                  ],
+                  "taperAngleRadians": 0.0,
+                  "threadDepth": 0.7499999403953552,
+                  "topDisplayOffset": 0.0,
+                  "topOffset": 0.0
+                },
+                "threadId": 1123
+              }
+            ]
+          },
+          {
+            "displayInfo": {
+              "axisX": -1.1099369732371493e-17,
+              "axisY": -1.0,
+              "axisZ": 3.795206601050728e-18,
+              "cameraXform": "0.14433,-0.00000,-0.18686,5.00000,-0.91287,-0.00000,-0.40825,0.36515,-0.44721,-0.81650,-0.18257,-0.89443,0.40825",
+              "depth": 0.7499999403953552,
+              "diameter": 0.549999999345307,
+              "states": [
+                {
+                  "objects": [
+                    {
+                      "color": "availableColor",
+                      "groupId": "ThreadedFeature1-2000002DisabledGroup-EXT",
+                      "objectId": "ThreadedFeature1-2000002"
+                    }
+                  ],
+                  "state": "available"
+                },
+                {
+                  "objects": [
+                    {
+                      "color": "highlightedColor",
+                      "groupId": "ThreadedFeature1-2000002DisabledGroup-EXT",
+                      "objectId": "ThreadedFeature1-2000002"
+                    },
+                    {
+                      "color": "highlightedColor",
+                      "groupId": "ThreadedFeature1-2000002SelectionRingGroup-EXT",
+                      "objectId": "ThreadedFeature1-2000002"
+                    }
+                  ],
+                  "state": "available+highlighted"
+                },
+                {
+                  "objects": [
+                    {
+                      "color": "selectedColor",
+                      "groupId": "ThreadedFeature1-2000002DisabledGroup-EXT",
+                      "objectId": "ThreadedFeature1-2000002"
+                    },
+                    {
+                      "color": "selectedColor",
+                      "groupId": "ThreadedFeature1-2000002SelectionRingGroup-EXT",
+                      "objectId": "ThreadedFeature1-2000002"
+                    }
+                  ],
+                  "state": "available+selected"
+                }
+              ],
+              "through": true,
+              "topX": 0.14432989475804592,
+              "topY": -3.2218468834884747e-18,
+              "topZ": -0.18685567182498902
+            },
+            "featureId": 2000002,
+            "featureType": "ID",
+            "identifiableLocation": {
+              "holeDiameter": 0.549999999345307,
+              "holePointX": 0.14432989475804592,
+              "holePointY": -3.2218468834884747e-18,
+              "holePointZ": -0.18685567182498902
+            },
+            "threadOptions": [
+              {
+                "displayInfo": {
+                  "majorDiameter": 0.6095,
+                  "minorDiameter": 0.4762654557293793,
+                  "states": [
+                    {
+                      "objects": [
+                        {
+                          "color": "threadedColor",
+                          "groupId": "ThreadedFeature1-2000002Thread1123EnabledGroup-EXT",
+                          "objectId": "ThreadedFeature1-2000002"
+                        }
+                      ],
+                      "state": "1123"
+                    },
+                    {
+                      "objects": [
+                        {
+                          "color": "highlightedColor",
+                          "groupId": "ThreadedFeature1-2000002Thread1123EnabledGroup-EXT",
+                          "objectId": "ThreadedFeature1-2000002"
+                        },
+                        {
+                          "color": "highlightedColor",
+                          "groupId": "ThreadedFeature1-2000002SelectionRingGroup-EXT",
+                          "objectId": "ThreadedFeature1-2000002"
+                        }
+                      ],
+                      "state": "1123+highlighted"
+                    },
+                    {
+                      "objects": [
+                        {
+                          "color": "selectedColor",
+                          "groupId": "ThreadedFeature1-2000002Thread1123EnabledGroup-EXT",
+                          "objectId": "ThreadedFeature1-2000002"
+                        },
+                        {
+                          "color": "selectedColor",
+                          "groupId": "ThreadedFeature1-2000002SelectionRingGroup-EXT",
+                          "objectId": "ThreadedFeature1-2000002"
+                        }
+                      ],
+                      "state": "1123+selected"
+                    }
+                  ],
+                  "taperAngleRadians": 0.0,
+                  "threadDepth": 0.7499999403953552,
+                  "topDisplayOffset": 0.0,
+                  "topOffset": 0.0
+                },
+                "threadId": 1123
+              }
+            ]
+          }
+        ]
+      },
+      "toolsetId": 1
+    },
+    {
+      "is5Axis": false,
+      "isMinimalMilling": false,
+      "leftoverMaterialVolume": 0,
+      "machiningMinutesBushing": 0,
+      "machiningMinutesPart": 15.211988087876342,
+      "materials": [
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 4,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 12,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            },
+            {
+              "blockId": 88,
+              "maxParts": 29,
+              "isSafe": true
+            },
+            {
+              "blockId": 89,
+              "maxParts": 62,
+              "isSafe": true
+            }
+          ],
+          "materialId": 33
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 4,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 12,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 39
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 4,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 12,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            },
+            {
+              "blockId": 88,
+              "maxParts": 29,
+              "isSafe": true
+            },
+            {
+              "blockId": 89,
+              "maxParts": 62,
+              "isSafe": true
+            }
+          ],
+          "materialId": 42
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 4,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 12,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            }
+          ],
+          "materialId": 52
+        },
+        {
+          "available": null,
+          "estimatedBlockFits": [],
+          "materialId": 54
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 37,
+              "maxParts": 1,
+              "isSafe": true
+            },
+            {
+              "blockId": 1,
+              "maxParts": 4,
+              "isSafe": true
+            },
+            {
+              "blockId": 53,
+              "maxParts": 7,
+              "isSafe": true
+            },
+            {
+              "blockId": 63,
+              "maxParts": 13,
+              "isSafe": true
+            },
+            {
+              "blockId": 5,
+              "maxParts": 12,
+              "isSafe": true
+            },
+            {
+              "blockId": 9,
+              "maxParts": 17,
+              "isSafe": true
+            },
+            {
+              "blockId": 88,
+              "maxParts": 29,
+              "isSafe": true
+            },
+            {
+              "blockId": 89,
+              "maxParts": 62,
+              "isSafe": true
+            }
+          ],
+          "materialId": 57
+        }
+      ],
+      "threadedFeatures": {
+        "displayInfo": {
+          "viewerFiles": [
+            "advisories_ts_2.bpv.gz",
+            "advisories_ts_2_bc_1.bpv.gz"
+          ],
+          "scene": "STD"
+        },
+        "features": [
+          {
+            "displayInfo": {
+              "axisX": 6.151067196252428e-17,
+              "axisY": -1.0,
+              "axisZ": -1.75104684828791e-17,
+              "cameraXform": "1.14433,-0.00000,-0.18686,5.00000,-0.91287,-0.00000,-0.40825,0.36515,-0.44721,-0.81650,-0.18257,-0.89443,0.40825",
+              "depth": 0.7499999403953552,
+              "diameter": 0.5499999964828471,
+              "states": [
+                {
+                  "objects": [
+                    {
+                      "color": "availableColor",
+                      "groupId": "ThreadedFeature2-2000001DisabledGroup-EXT",
+                      "objectId": "ThreadedFeature2-2000001"
+                    }
+                  ],
+                  "state": "available"
+                },
+                {
+                  "objects": [
+                    {
+                      "color": "highlightedColor",
+                      "groupId": "ThreadedFeature2-2000001DisabledGroup-EXT",
+                      "objectId": "ThreadedFeature2-2000001"
+                    },
+                    {
+                      "color": "highlightedColor",
+                      "groupId": "ThreadedFeature2-2000001SelectionRingGroup-EXT",
+                      "objectId": "ThreadedFeature2-2000001"
+                    }
+                  ],
+                  "state": "available+highlighted"
+                },
+                {
+                  "objects": [
+                    {
+                      "color": "selectedColor",
+                      "groupId": "ThreadedFeature2-2000001DisabledGroup-EXT",
+                      "objectId": "ThreadedFeature2-2000001"
+                    },
+                    {
+                      "color": "selectedColor",
+                      "groupId": "ThreadedFeature2-2000001SelectionRingGroup-EXT",
+                      "objectId": "ThreadedFeature2-2000001"
+                    }
+                  ],
+                  "state": "available+selected"
+                }
+              ],
+              "through": true,
+              "topX": 1.1443299013818913,
+              "topY": -1.758711837382705e-17,
+              "topZ": -0.18685567182498933
+            },
+            "featureId": 2000001,
+            "featureType": "ID",
+            "identifiableLocation": {
+              "holeDiameter": 0.5499999964828471,
+              "holePointX": 1.1443299013818913,
+              "holePointY": -1.758711837382705e-17,
+              "holePointZ": -0.18685567182498933
+            },
+            "threadOptions": [
+              {
+                "displayInfo": {
+                  "majorDiameter": 0.605,
+                  "minorDiameter": 0.4717654557293792,
+                  "states": [
+                    {
+                      "objects": [
+                        {
+                          "color": "threadedColor",
+                          "groupId": "ThreadedFeature2-2000001Thread123EnabledGroup-EXT",
+                          "objectId": "ThreadedFeature2-2000001"
+                        }
+                      ],
+                      "state": "123"
+                    },
+                    {
+                      "objects": [
+                        {
+                          "color": "highlightedColor",
+                          "groupId": "ThreadedFeature2-2000001Thread123EnabledGroup-EXT",
+                          "objectId": "ThreadedFeature2-2000001"
+                        },
+                        {
+                          "color": "highlightedColor",
+                          "groupId": "ThreadedFeature2-2000001SelectionRingGroup-EXT",
+                          "objectId": "ThreadedFeature2-2000001"
+                        }
+                      ],
+                      "state": "123+highlighted"
+                    },
+                    {
+                      "objects": [
+                        {
+                          "color": "selectedColor",
+                          "groupId": "ThreadedFeature2-2000001Thread123EnabledGroup-EXT",
+                          "objectId": "ThreadedFeature2-2000001"
+                        },
+                        {
+                          "color": "selectedColor",
+                          "groupId": "ThreadedFeature2-2000001SelectionRingGroup-EXT",
+                          "objectId": "ThreadedFeature2-2000001"
+                        }
+                      ],
+                      "state": "123+selected"
+                    }
+                  ],
+                  "taperAngleRadians": 0.0,
+                  "threadDepth": 0.7499999403953552,
+                  "topDisplayOffset": 0.0,
+                  "topOffset": 0.0
+                },
+                "threadId": 123
+              }
+            ]
+          },
+          {
+            "displayInfo": {
+              "axisX": -1.1099369732371493e-17,
+              "axisY": -1.0,
+              "axisZ": 3.795206601050728e-18,
+              "cameraXform": "0.14433,-0.00000,-0.18686,5.00000,-0.91287,-0.00000,-0.40825,0.36515,-0.44721,-0.81650,-0.18257,-0.89443,0.40825",
+              "depth": 0.7499999403953552,
+              "diameter": 0.549999999345307,
+              "states": [
+                {
+                  "objects": [
+                    {
+                      "color": "availableColor",
+                      "groupId": "ThreadedFeature2-2000002DisabledGroup-EXT",
+                      "objectId": "ThreadedFeature2-2000002"
+                    }
+                  ],
+                  "state": "available"
+                },
+                {
+                  "objects": [
+                    {
+                      "color": "highlightedColor",
+                      "groupId": "ThreadedFeature2-2000002DisabledGroup-EXT",
+                      "objectId": "ThreadedFeature2-2000002"
+                    },
+                    {
+                      "color": "highlightedColor",
+                      "groupId": "ThreadedFeature2-2000002SelectionRingGroup-EXT",
+                      "objectId": "ThreadedFeature2-2000002"
+                    }
+                  ],
+                  "state": "available+highlighted"
+                },
+                {
+                  "objects": [
+                    {
+                      "color": "selectedColor",
+                      "groupId": "ThreadedFeature2-2000002DisabledGroup-EXT",
+                      "objectId": "ThreadedFeature2-2000002"
+                    },
+                    {
+                      "color": "selectedColor",
+                      "groupId": "ThreadedFeature2-2000002SelectionRingGroup-EXT",
+                      "objectId": "ThreadedFeature2-2000002"
+                    }
+                  ],
+                  "state": "available+selected"
+                }
+              ],
+              "through": true,
+              "topX": 0.14432989475804592,
+              "topY": -3.2218468834884747e-18,
+              "topZ": -0.18685567182498902
+            },
+            "featureId": 2000002,
+            "featureType": "ID",
+            "identifiableLocation": {
+              "holeDiameter": 0.549999999345307,
+              "holePointX": 0.14432989475804592,
+              "holePointY": -3.2218468834884747e-18,
+              "holePointZ": -0.18685567182498902
+            },
+            "threadOptions": [
+              {
+                "displayInfo": {
+                  "majorDiameter": 0.605,
+                  "minorDiameter": 0.4717654557293792,
+                  "states": [
+                    {
+                      "objects": [
+                        {
+                          "color": "threadedColor",
+                          "groupId": "ThreadedFeature2-2000002Thread123EnabledGroup-EXT",
+                          "objectId": "ThreadedFeature2-2000002"
+                        }
+                      ],
+                      "state": "123"
+                    },
+                    {
+                      "objects": [
+                        {
+                          "color": "highlightedColor",
+                          "groupId": "ThreadedFeature2-2000002Thread123EnabledGroup-EXT",
+                          "objectId": "ThreadedFeature2-2000002"
+                        },
+                        {
+                          "color": "highlightedColor",
+                          "groupId": "ThreadedFeature2-2000002SelectionRingGroup-EXT",
+                          "objectId": "ThreadedFeature2-2000002"
+                        }
+                      ],
+                      "state": "123+highlighted"
+                    },
+                    {
+                      "objects": [
+                        {
+                          "color": "selectedColor",
+                          "groupId": "ThreadedFeature2-2000002Thread123EnabledGroup-EXT",
+                          "objectId": "ThreadedFeature2-2000002"
+                        },
+                        {
+                          "color": "selectedColor",
+                          "groupId": "ThreadedFeature2-2000002SelectionRingGroup-EXT",
+                          "objectId": "ThreadedFeature2-2000002"
+                        }
+                      ],
+                      "state": "123+selected"
+                    }
+                  ],
+                  "taperAngleRadians": 0.0,
+                  "threadDepth": 0.7499999403953552,
+                  "topDisplayOffset": 0.0,
+                  "topOffset": 0.0
+                },
+                "threadId": 123
+              }
+            ]
+          }
+        ]
+      },
+      "toolsetId": 2
+    },
+    {
+      "is5Axis": false,
+      "isMinimalMilling": true,
+      "leftoverMaterialVolume": 0,
+      "machiningMinutesBushing": 0,
+      "machiningMinutesPart": 95.56788804038418,
+      "materials": [
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 224,
+              "maxParts": 1,
+              "isSafe": true
+            }
+          ],
+          "materialId": 44
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 224,
+              "maxParts": 1,
+              "isSafe": true
+            }
+          ],
+          "materialId": 47
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 224,
+              "maxParts": 1,
+              "isSafe": true
+            }
+          ],
+          "materialId": 48
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 224,
+              "maxParts": 1,
+              "isSafe": true
+            }
+          ],
+          "materialId": 49
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 224,
+              "maxParts": 1,
+              "isSafe": true
+            }
+          ],
+          "materialId": 51
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 224,
+              "maxParts": 1,
+              "isSafe": true
+            }
+          ],
+          "materialId": 53
+        },
+        {
+          "available": true,
+          "estimatedBlockFits": [
+            {
+              "blockId": 224,
+              "maxParts": 1,
+              "isSafe": true
+            }
+          ],
+          "materialId": 58
+        },
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 67
+        },
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 68
+        }
+      ],
+      "threadedFeatures": {
+        "displayInfo": {
+          "viewerFiles": [
+            "advisories_ts_8.bpv.gz",
+            "advisories_ts_8_bc_1.bpv.gz"
+          ],
+          "scene": "STD"
+        },
+        "features": []
+      },
+      "toolsetId": 8
+    },
+    {
+      "is5Axis": null,
+      "isMinimalMilling": false,
+      "leftoverMaterialVolume": null,
+      "machiningMinutesBushing": 0,
+      "machiningMinutesPart": 0,
+      "materials": [
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 33
+        },
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 39
+        },
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 42
+        },
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 52
+        },
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 54
+        },
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 57
+        }
+      ],
+      "threadedFeatures": null,
+      "toolsetId": 9
+    },
+    {
+      "is5Axis": null,
+      "isMinimalMilling": false,
+      "leftoverMaterialVolume": null,
+      "machiningMinutesBushing": 0,
+      "machiningMinutesPart": 0,
+      "materials": [
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 44
+        },
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 47
+        },
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 48
+        },
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 49
+        },
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 51
+        },
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 53
+        },
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 58
+        },
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 67
+        },
+        {
+          "available": false,
+          "estimatedBlockFits": [],
+          "materialId": 68
+        }
+      ],
+      "threadedFeatures": null,
+      "toolsetId": 10
+    }
+  ],
+  "applications": [
+    {
+      "name": "CNCInstantAnalyzer",
+      "version": "0.0.0.726152"
+    },
+    {
+      "name": "MLModels",
+      "version": "2024-07-18"
+    },
+    {
+      "name": "DFM3DP",
+      "version": "0.14.0"
+    },
+    {
+      "name": "CNCInstantPostProcessor",
+      "version": "1.0"
+    }
+  ],
+  "advisoryInfos": [
+    {
+      "discriminators": [
+        {
+          "name": "TOOLSET",
+          "value": "1"
+        }
+      ],
+      "metadata": {
+        "application": "CNCInstantPostProcessor"
+      },
+      "properties": [
+        {
+          "propertyName": "Leftover Material File",
+          "filename": "unreachable_ts_1.plbt",
+          "representation": "surface_points",
+          "pointPitch": 0.009999999776482582
+        }
+      ],
+      "scene": "ALLISSUES",
+      "type": "ANALYSIS_ALL_ISSUES",
+      "viewerFiles": [
+        "advisories_ts_1.bpv.gz",
+        "advisories_ts_1_bc_1.bpv.gz"
+      ]
+    },
+    {
+      "discriminators": [
+        {
+          "name": "TOOLSET",
+          "value": "2"
+        }
+      ],
+      "metadata": {
+        "application": "CNCInstantPostProcessor"
+      },
+      "properties": [
+        {
+          "propertyName": "Leftover Material File",
+          "filename": "unreachable_ts_2.plbt",
+          "representation": "surface_points",
+          "pointPitch": 0.009999999776482582
+        }
+      ],
+      "scene": "ALLISSUES",
+      "type": "ANALYSIS_ALL_ISSUES",
+      "viewerFiles": [
+        "advisories_ts_2.bpv.gz",
+        "advisories_ts_2_bc_1.bpv.gz"
+      ]
+    },
+    {
+      "discriminators": [
+        {
+          "name": "TOOLSET",
+          "value": "8"
+        }
+      ],
+      "metadata": {
+        "application": "CNCInstantAnalyzer"
+      },
+      "properties": null,
+      "scene": "STD",
+      "type": "ANALYSIS_THREADING_UNAVAILABLE",
+      "viewerFiles": [
+        "advisories_ts_8.bpv.gz",
+        "advisories_ts_8_bc_1.bpv.gz"
+      ]
+    },
+    {
+      "discriminators": [
+        {
+          "name": "TOOLSET",
+          "value": "8"
+        }
+      ],
+      "metadata": {
+        "application": "CNCInstantPostProcessor"
+      },
+      "properties": [
+        {
+          "propertyName": "Leftover Material File",
+          "filename": "unreachable_ts_8.plbt",
+          "representation": "surface_points",
+          "pointPitch": 0.009999999776482582
+        }
+      ],
+      "scene": "ALLISSUES",
+      "type": "ANALYSIS_ALL_ISSUES",
+      "viewerFiles": [
+        "advisories_ts_8.bpv.gz",
+        "advisories_ts_8_bc_1.bpv.gz"
+      ]
+    }
+  ],
+  "partMetrics": {
+    "surfaceArea": 10.142072677612305,
+    "xExtent": 2.0,
+    "yExtent": 1.0,
+    "zExtent": 0.7499999403953552,
+    "volume": 1.144322156906128
+  }
+}
